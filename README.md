@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
     <br>
-    <a href="https://luciustensors.com/">LuciusTensors</a> - An AI-powered centralized website for LLM based products.
+    Currently working on an AI-powered centralized website for multiple LLM based products <a href="https://luciustensors.com/">LuciusTensors</a>
 </p>
 
 ### Languages
