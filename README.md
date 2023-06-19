@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys!</h1>
+<h2 align="center">Hi, guys!</h2>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -9,10 +9,11 @@
     <a href="https://www.linkedin.com/in/vidit-dhull-045665236/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    </a>
     <a href="https://leetcode.com/user5225aS/">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    <br>
+    <a href="https://luciustensors.com/">LuciusTensors</a> - An AI-powered centralized website for LLM based products.
 </p>
 
 ### Languages
