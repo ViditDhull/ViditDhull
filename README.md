@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
         I am Vidit Dhull.<br>
         Passionate developer, data science enthusiast, and dedicated to devops.<br>
-        Currently working on "luciustensors.com" website, driven by a love for Devops and pushing the boundaries of technology.<br>
+        Currently working on <a href="https://luciustensors.com/">LuciusTensors</a> website, driven by a love for Devops and pushing the boundaries of technology.<br>
     <br>
     <a href="https://www.linkedin.com/in/vidit-dhull-045665236/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -13,7 +13,6 @@
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
     <br>
-    Currently working on an AI-powered centralized website for multiple LLM based products <a href="https://luciustensors.com/">LuciusTensors</a>
 </p>
 
 ### Languages
