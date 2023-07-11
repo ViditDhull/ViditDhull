@@ -22,7 +22,7 @@
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/viditdhull)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/viditdhull)
 
-### Data Analysis
+### Data Visualization and Analytics Tools
 [![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoft%20excel)](https://github.com/viditdhull)
 [![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power%20bi)](https://github.com/viditdhull)
 [![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/viditdhull)
@@ -31,6 +31,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/viditdhull)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/viditdhull)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/viditdhull)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-black?style=for-the-badge&logo=hugging%20face)](https://github.com/viditdhull)
 [![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=rust)](https://github.com/viditdhull)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/viditdhull)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/viditdhull)
@@ -41,9 +42,7 @@
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://github.com/viditdhull)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/viditdhull)
 [![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-black?style=for-the-badge&logo=beautifulsoup)](https://github.com/viditdhull)
-[![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/viditdhull)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/viditdhull)
-[![Grafna](https://img.shields.io/badge/grafna-black?style=for-the-badge&logo=grafna)](https://github.com/viditdhull)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/viditdhull)
