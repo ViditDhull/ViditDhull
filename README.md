@@ -30,6 +30,9 @@
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/viditdhull)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/viditdhull)
 
+### Data Analysis
+[![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power%20bi)](https://github.com/viditdhull)
+[![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/viditdhull)
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/viditdhull)
