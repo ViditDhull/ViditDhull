@@ -30,7 +30,6 @@
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/viditdhull)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/viditdhull)
-[![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/viditdhull)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-black?style=for-the-badge&logo=hugging%20face)](https://github.com/viditdhull)
 [![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=rust)](https://github.com/viditdhull)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/viditdhull)
