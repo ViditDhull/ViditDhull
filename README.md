@@ -41,7 +41,7 @@
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://github.com/viditdhull)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/viditdhull)
 [![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-black?style=for-the-badge&logo=beautifulsoup)](https://github.com/viditdhull)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/viditdhull)
+[![Langchain](https://img.shields.io/badge/langchain-black?style=for-the-badge&logo=langchain)](https://github.com/viditdhull)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/viditdhull)
