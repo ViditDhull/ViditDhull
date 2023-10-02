@@ -26,7 +26,6 @@
 [![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=rust)](https://github.com/viditdhull)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/viditdhull)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/viditdhull)
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/viditdhull)
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/viditdhull)
