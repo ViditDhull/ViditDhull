@@ -17,7 +17,6 @@
 ### Data Visualization and Analytics Tools
 [![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoft%20excel)](https://github.com/viditdhull)
 [![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power%20bi)](https://github.com/viditdhull)
-[![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/viditdhull)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/viditdhull)
