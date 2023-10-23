@@ -3,8 +3,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
         I am Vidit Dhull.<br>
-        Passionate developer, data science enthusiast, and dedicated to devops.<br>
-        Currently working on <a href="https://luciustensors.com/">LuciusTensors</a> website, driven by a love for Devops and pushing the boundaries of technology.<br>
+        Passionate developer, data science enthusiast, and dedicated to data engineering.<br>
+        Currently working on <a href="https://luciustensors.com/">LuciusTensors</a> website, driven by a love for LLMOps and pushing the boundaries of technology.<br>
 </p>
 
 ### Languages
@@ -15,9 +15,9 @@
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/viditdhull)
 
 ### Data Engineering Tools
-[![Hadoop](https://img.shields.io/badge/Hadoop-orange?style=for-the-badge&logo=Apache%20Hadoop)](https://github.com/viditdhull)
-[![Spark](https://img.shields.io/badge/Spark-red?style=for-the-badge&logo=Apache%20Spark)](https://github.com/viditdhull)
-[![Airflow](https://img.shields.io/badge/Airflow-purple?style=for-the-badge&logo=Apache%20Airflow)](https://github.com/viditdhull)
+[![Hadoop](https://img.shields.io/badge/Hadoop-black?style=for-the-badge&logo=Apache%20Hadoop)](https://github.com/viditdhull)
+[![Spark](https://img.shields.io/badge/Spark-black?style=for-the-badge&logo=Apache%20Spark)](https://github.com/viditdhull)
+[![Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=Apache%20Airflow)](https://github.com/viditdhull)
 [![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=Apache%20Kafka)](https://github.com/viditdhull)
 
 ### ML/DL
