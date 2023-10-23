@@ -14,9 +14,11 @@
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/viditdhull)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/viditdhull)
 
-### Data Visualization and Analytics Tools
-[![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoft%20excel)](https://github.com/viditdhull)
-[![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power%20bi)](https://github.com/viditdhull)
+### Data Engineering Tools
+[![Hadoop](https://img.shields.io/badge/Hadoop-orange?style=for-the-badge&logo=Apache%20Hadoop)](https://github.com/viditdhull)
+[![Spark](https://img.shields.io/badge/Spark-red?style=for-the-badge&logo=Apache%20Spark)](https://github.com/viditdhull)
+[![Airflow](https://img.shields.io/badge/Airflow-purple?style=for-the-badge&logo=Apache%20Airflow)](https://github.com/viditdhull)
+[![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=Apache%20Kafka)](https://github.com/viditdhull)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/viditdhull)
