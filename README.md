@@ -15,14 +15,14 @@
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/viditdhull)
 
 ### Data Engineering Tools
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/viditdhull)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/viditdhull)
 [![Hadoop](https://img.shields.io/badge/Hadoop-black?style=for-the-badge&logo=Apache%20Hadoop)](https://github.com/viditdhull)
 [![Spark](https://img.shields.io/badge/Spark-black?style=for-the-badge&logo=Apache%20Spark)](https://github.com/viditdhull)
 [![Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=Apache%20Airflow)](https://github.com/viditdhull)
 [![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=Apache%20Kafka)](https://github.com/viditdhull)
 
 ### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/viditdhull)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/viditdhull)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-black?style=for-the-badge&logo=hugging%20face)](https://github.com/viditdhull)
 [![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=rust)](https://github.com/viditdhull)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/viditdhull)
