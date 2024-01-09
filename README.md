@@ -5,8 +5,10 @@
         I am Vidit Dhull.<br>
         Passionate developer, data science enthusiast, and dedicated to data engineering.<br>
         Currently working on <a href="https://luciustensors.com/">LuciusTensors</a> website, driven by a love for LLMOps and pushing the boundaries of technology.<br>
-    [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidit-dhull-045665236)
-    [![LeetCode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/Vidit_Dhull/)
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/vidit-dhull-045665236"><img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"></a>
+    <a href="https://leetcode.com/Vidit_Dhull/"><img src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode" alt="LeetCode profile"></a>
 </p>
 
 ### Languages
