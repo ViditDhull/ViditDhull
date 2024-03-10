@@ -25,7 +25,7 @@
 [![Spark](https://img.shields.io/badge/Spark-black?style=for-the-badge&logo=Apache%20Spark)](https://github.com/viditdhull)
 [![Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=Apache%20Airflow)](https://github.com/viditdhull)
 [![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=Apache%20Kafka)](https://github.com/viditdhull)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mogodb)](https://github.com/viditdhull)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/viditdhull)
 [![NEO4J](https://img.shields.io/badge/neo4j-black?style=for-the-badge&logo=neo4j)](https://github.com/viditdhull)
 
 ### ML/DL
