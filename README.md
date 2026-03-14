@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     I’m <b>Vidit Dhull</b> — a <b>Microsoft Certified Azure Data Engineer</b> passionate about <b>building scalable data pipelines</b> and <b>delivering ML-ready datasets</b>.<br>
-    With 3+ years of experience designing, automating, and optimizing <b>batch and streaming data pipelines</b> on <b>Azure / Microsoft Fabric</b>.<br>
+    With 5+ years of experience designing, automating, and optimizing <b>batch and streaming data pipelines</b> on <b>Azure / Microsoft Fabric</b>.<br>
     I love transforming raw data into insights and developing end-to-end data systems that power intelligent decision-making.<br><br>
     Currently building data-driven products at <b>Alstom</b> and contributing to my AI venture <a href="https://luciustensors.com/">LuciusTensors</a>.<br>
 </p>
@@ -17,7 +17,7 @@
 
 ### 🧠 Summary
 - Microsoft Certified **Azure Data Engineer Associate (DP-203)** & **Fabric Data Engineer Associate (DP-700)**  
-- **3+ years** experience in designing and optimizing **data models, ETL pipelines, and Power BI dashboards**  
+- **5+ years** experience in designing and optimizing **data models, ETL pipelines, and Power BI dashboards**  
 - Skilled in **Python, SQL, PySpark**, and **Microsoft Fabric** for batch & streaming data solutions  
 - Strong foundation in **Medallion Architecture**, **Data Warehousing**, and **Pipeline Orchestration (ADF, Airflow)**  
 - **Ranked 1st** in PG-Diploma (Big Data Analytics) at CDAC Bengaluru  
