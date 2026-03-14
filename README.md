@@ -27,17 +27,17 @@
 
 ### 🚀 Featured Projects
 
-#### 🧩 [Dialogs – AI-Powered Troubleshooting Platform (Alstom)]()
+#### 🧩 AI-Powered Troubleshooting Platform
 - Built and optimized **data models and stored procedures**, reducing query time by 40%.  
 - Developed **batch and streaming pipelines** using Python notebooks and Eventhouse, processing 100K+ daily events.  
 - Delivered **Power BI dashboards** that cut troubleshooting time from 2 months to under 2 weeks.  
 
-#### ⚙️ [NSCR – Workflow Automation (Alstom)]()
+#### ⚙️ Workflow Automation
 - Automated workflows for **1,500+ signaling configurations** using custom Python logic.  
 - Achieved **100% pipeline automation**, reducing manual effort by 70%.  
 - Delivered ML-ready parquet datasets for 100+ configurations with end-to-end validation.  
 
-#### 🤖 [LuciusTensors – AI Products Hub](https://luciustensors.com/)
+#### 🤖 LuciusTensors – AI Products Hub
 - Built an AI web platform offering tools like **QueryPDF** and **Chat-powered assistants**.  
 - Integrated **LLMs with LangChain and Flask** for smooth API deployment.  
 - Designed backend data flow in **Medallion architecture** to demonstrate scalable data engineering concepts.  
